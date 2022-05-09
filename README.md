@@ -1,5 +1,6 @@
 # Semi-supervised Image Classification and Generation with PCA and K-Means
 Micah Reich and David Krajewski (mreich@andrew.cmu.edu, dkrajews@andrew.cmu.edu)
+
 Final project for 21-241 (Fall 2021)
 
 ## Abstract
