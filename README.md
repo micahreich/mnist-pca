@@ -1,5 +1,6 @@
 # Semi-supervised Image Classification and Generation with PCA and K-Means
 Micah Reich and David Krajewski (mreich@andrew.cmu.edu, dkrajews@andrew.cmu.edu)
+Final project for 21-241 (Fall 2021)
 
 ## Abstract
 Image classification and image generation are long-standing problems in the fields of artificial intelligence and computer science research. While many modern approaches to these tasks make use of deep neural networks like Generative Adversarial Networks and Convolutional Neural Networks, we demonstrate that simple image recognition and generation may be accomplished with classical methods in linear algebra, including Principal Component Analysis and K-means clustering.
